@@ -1,0 +1,8 @@
+{
+    "port": "COM3",
+    "board": "arduino:avr:nano",
+    "sketch": "Alert-Light-Radio-Receiver.ino",
+    "output": "build",
+    "programmer": "avrispmkii",
+    "configuration": "cpu=atmega328"
+}
